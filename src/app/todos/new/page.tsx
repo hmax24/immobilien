@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { createTodo } from "@/app/actions/create-todo";
 
 export default function AddTodo() {
